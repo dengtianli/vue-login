@@ -44,6 +44,10 @@
                     {
                         name: 'company',
                         key: 'company',
+                    },
+                    {
+                        name: 'job',
+                        key: 'job',
                     }
                 ],
                 actions: [

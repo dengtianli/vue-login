@@ -17,7 +17,7 @@
 </template>
 
 <script>
-    import IEcharts from 'vue-echarts-v3';
+    import IEcharts from 'vue-echarts-v3/src/full.vue';
     export default {
         data: function(){
             return {
